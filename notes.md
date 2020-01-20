@@ -36,9 +36,18 @@
 
 ### Advanced
 
+#### Solving merge conflicts
+
+#### Ssh
+
+#### Workflow
+
 - [My Git Workflow](https://blog.osteele.com/2008/05/my-git-workflow/)
 - [The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)
 - [Commit Policies](https://blog.osteele.com/2008/05/commit-policies/)
+
+#### Other
+
 - [How To Set Up a Private Git Server on a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-git-server-on-a-vps)
 
 ## Useful commands
