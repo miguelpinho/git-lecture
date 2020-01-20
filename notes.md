@@ -26,6 +26,7 @@
 ### Zones
 
 - [Zones and file lifecycle](https://screencasts.delicious-insights.com/courses/git-core-concepts/102205-default-section/305169-zones-and-file-lifecycle)
+- [Git data transport commands](https://www.stephenmarron.com/2017/02/git-data-transport-commands/)
 
 ### Internals
 
