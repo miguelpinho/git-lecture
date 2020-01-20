@@ -23,6 +23,10 @@
 - [How To Use Git Effectively](https://www.digitalocean.com/community/tutorials/how-to-use-git-effectively)
 - [How To Use Git Branches](https://www.digitalocean.com/community/tutorials/how-to-use-git-branches)
 
+### Zones
+
+- [Zones and file lifecycle](https://screencasts.delicious-insights.com/courses/git-core-concepts/102205-default-section/305169-zones-and-file-lifecycle)
+
 ### Internals
 
 - [Understanding Git Data Model](https://hackernoon.com/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
