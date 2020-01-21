@@ -1,6 +1,6 @@
 # TODO
 
-- [ ] Add branching slide.
+- [x] Add branching slide.
 - [ ] Add advanced topics slides.
 - [ ] Add iceberg slide.
 - [ ] Add references to figures.

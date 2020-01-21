@@ -8,3 +8,4 @@
 - [GitHub_Logo.png](https://github.com/logos) by GitHub
 - [gitlab-logo-gray-stacked-rgb.png](https://github.com/logos) by GitLab
 - [Bitbucket@2x-blue.png](https://www.atlassian.com/company/news/press-kit) by Bitbucket
+- [branching-merging.png](https://medium.com/@haydar_ai/learning-how-to-git-merging-branches-and-resolving-conflict-61652834d4b0) by Haydar Ismail

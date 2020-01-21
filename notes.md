@@ -9,6 +9,7 @@
 - [Git bash overview](https://www.atlassian.com/git/tutorials/git-bash)
 - [How To Install Git on CentOS 7](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-centos-7)
 - [Initial setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+- [Console color](https://stackoverflow.com/questions/10998792/how-to-color-the-git-console#13075208)
 
 ### What is git?
 
@@ -34,10 +35,6 @@
 - [Understanding Git Branching](https://hackernoon.com/understanding-git-branching-2662f5882f9)
 - [Understanding Git Index](https://hackernoon.com/understanding-git-index-4821a0765cf)
 - [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw)
-
-### Tips
-
-- [Console color](https://stackoverflow.com/questions/10998792/how-to-color-the-git-console#13075208)
 
 ### Advanced
 
