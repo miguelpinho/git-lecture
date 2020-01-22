@@ -40,7 +40,10 @@
 
 #### Solving merge conflicts
 
-#### Ssh
+#### Ssh keys
+
+- [How to Install Git on Windows and Set Up SSH Keys for GitHub](https://liyanxu.blog/2017/02/12/install-git-on-windows-and-set-up-ssh-keys/)
+- [Connecting to GitHub with SSH](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 #### Workflow
 
