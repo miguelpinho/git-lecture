@@ -40,6 +40,10 @@
 
 #### Solving merge conflicts
 
+- [Learning How to Git: Merging Branches and Resolving Conflict](https://medium.com/@haydar_ai/learning-how-to-git-merging-branches-and-resolving-conflict-61652834d4b0)
+- [Git Merge Conflict Tutorial](https://www.youtube.com/watch?v=1MVQYSlgXrI)
+- [Step by Step Guide on How To Resolve Git Merge Conflicts](https://www.youtube.com/watch?v=__cR7uPBOIk)
+
 #### Ssh keys
 
 - [How to Install Git on Windows and Set Up SSH Keys for GitHub](https://liyanxu.blog/2017/02/12/install-git-on-windows-and-set-up-ssh-keys/)
@@ -56,8 +60,6 @@
 - [How To Set Up a Private Git Server on a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-git-server-on-a-vps)
 
 ## Useful commands
-
-## Interface
 
 ## Notes
 
