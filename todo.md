@@ -1,9 +1,9 @@
 # TODO
 
 - [x] Add branching slide.
-- [ ] Add advanced topics slides.
+- [x] Add advanced topics slides.
 - [ ] Add iceberg slide.
 - [ ] Add references to figures.
 - [ ] Add further reading links.
-- [ ] Revise layout.
+- [x] Revise layout.
 
