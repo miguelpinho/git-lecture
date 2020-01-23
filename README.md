@@ -31,13 +31,6 @@ Introductory lecture on Git and Version Control Systems.
 - [Zones and file lifecycle](https://screencasts.delicious-insights.com/courses/git-core-concepts/102205-default-section/305169-zones-and-file-lifecycle)
 - [Git data transport commands](https://www.stephenmarron.com/2017/02/git-data-transport-commands/)
 
-### Internals
-
-- [Understanding Git Data Model](https://hackernoon.com/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
-- [Understanding Git Branching](https://hackernoon.com/understanding-git-branching-2662f5882f9)
-- [Understanding Git Index](https://hackernoon.com/understanding-git-index-4821a0765cf)
-- [Deep Dive into Git](https://www.youtube.com/watch?v=dBSHLb1B8sw)
-
 ### Advanced
 
 #### Solving merge conflicts
@@ -56,6 +49,12 @@ Introductory lecture on Git and Version Control Systems.
 - [My Git Workflow](https://blog.osteele.com/2008/05/my-git-workflow/)
 - [The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)
 - [Commit Policies](https://blog.osteele.com/2008/05/commit-policies/)
+
+#### Git Internals (.git)
+
+- [Understanding Git Data Model](https://hackernoon.com/https-medium-com-zspajich-understanding-git-data-model-95eb16cc99f5)
+- [Understanding Git Branching](https://hackernoon.com/understanding-git-branching-2662f5882f9)
+- [Understanding Git Index](https://hackernoon.com/understanding-git-index-4821a0765cf)
 
 ## Quote
 
