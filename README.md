@@ -1,4 +1,6 @@
-# Learning Git
+# Git Lecture
+
+Introductory lecture on Git and Version Control Systems.
 
 ## Resources
 
@@ -55,13 +57,7 @@
 - [The Thing About Git](https://tomayko.com/blog/2008/the-thing-about-git)
 - [Commit Policies](https://blog.osteele.com/2008/05/commit-policies/)
 
-#### Other
-
-- [How To Set Up a Private Git Server on a VPS](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-git-server-on-a-vps)
-
-## Useful commands
-
-## Notes
+## Quote
 
 "
 Version control has become an indispensable tool in modern software
@@ -74,4 +70,4 @@ One of the most popular version control systems is git. Many projects maintain
 their files in a Git repository, and sites like GitHub and Bitbucket have made
 sharing and contributing to code with Git easier than ever.
 "
-[Source](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-centos-7)
+[Josh Barnett](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-centos-7)
